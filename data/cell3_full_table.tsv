@@ -1,0 +1,175 @@
+# BUSCO version is: 5.2.2 
+# The lineage dataset is: alveolata_odb10 (Creation date: 2020-09-10, number of genomes: 65, number of BUSCOs: 171)
+# Busco id	Status	Sequence	Score	Length	OrthoDB url	Description
+450at33630	Missing
+689at33630	Missing
+747at33630	Missing
+1227at33630	Missing
+1505at33630	Missing
+1636at33630	Missing
+2347at33630	Missing
+2413at33630	Missing
+2595at33630	Missing
+2617at33630	Missing
+2846at33630	Missing
+2868at33630	Missing
+3059at33630	Missing
+3118at33630	Missing
+3134at33630	Missing
+3330at33630	Complete	NODE_38_length_2361_cov_69.583042_g24_i0:243-2339	991.3	602	https://www.orthodb.org/v10?query=3330at33630	Elongation factor 2, putative
+3596at33630	Missing
+3973at33630	Missing
+4205at33630	Missing
+4220at33630	Missing
+4290at33630	Missing
+4448at33630	Missing
+4474at33630	Missing
+4608at33630	Missing
+5966at33630	Missing
+6358at33630	Missing
+6380at33630	Missing
+6394at33630	Missing
+6634at33630	Missing
+6842at33630	Missing
+6873at33630	Missing
+6981at33630	Fragmented	NODE_478_length_1127_cov_31.849146_g388_i0:24-899	454.5	236	https://www.orthodb.org/v10?query=6981at33630	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+7372at33630	Fragmented	NODE_3047_length_700_cov_13.583732_g2672_i0:252-635	169.3	120	https://www.orthodb.org/v10?query=7372at33630	Cyclophilin-type peptidyl-prolyl cis-trans isomerase
+7400at33630	Missing
+7531at33630	Missing
+7667at33630	Missing
+7781at33630	Missing
+7933at33630	Missing
+8103at33630	Missing
+8254at33630	Missing
+8552at33630	Missing
+8867at33630	Complete	NODE_402_length_1187_cov_33.236086_g321_i0:23-1153	210.4	260	https://www.orthodb.org/v10?query=8867at33630	Zinc finger protein, putative
+9068at33630	Missing
+9187at33630	Missing
+9188at33630	Missing
+9190at33630	Missing
+9317at33630	Missing
+9451at33630	Missing
+9481at33630	Missing
+9624at33630	Missing
+10327at33630	Missing
+10862at33630	Missing
+11005at33630	Missing
+11130at33630	Missing
+11233at33630	Complete	NODE_265_length_1374_cov_10.165257_g208_i0:165-1274	301.8	327	https://www.orthodb.org/v10?query=11233at33630	ATP-dependent RNA helicase DDX6
+11289at33630	Missing
+11404at33630	Missing
+11443at33630	Missing
+11480at33630	Missing
+11591at33630	Missing
+12048at33630	Missing
+12251at33630	Missing
+12352at33630	Missing
+12649at33630	Missing
+12825at33630	Missing
+12963at33630	Missing
+13130at33630	Missing
+13350at33630	Missing
+13697at33630	Missing
+13773at33630	Missing
+13998at33630	Missing
+14036at33630	Missing
+14653at33630	Missing
+15169at33630	Missing
+15419at33630	Missing
+15438at33630	Missing
+15452at33630	Missing
+15502at33630	Missing
+15611at33630	Missing
+16031at33630	Missing
+16291at33630	Missing
+16577at33630	Duplicated	NODE_274_length_1360_cov_165.930070_g216_i0:101-1192	180.9	305	https://www.orthodb.org/v10?query=16577at33630	Actin-like family protein ARP6, putative
+16577at33630	Duplicated	NODE_271_length_1365_cov_14.280186_g214_i0:131-1225	175.4	304	https://www.orthodb.org/v10?query=16577at33630	Actin-like family protein ARP6, putative
+16771at33630	Missing
+16788at33630	Missing
+16902at33630	Missing
+17021at33630	Complete	NODE_287_length_1342_cov_74.988968_g226_i0:163-1314	224.2	324	https://www.orthodb.org/v10?query=17021at33630	Tubulin gamma chain
+17571at33630	Missing
+17882at33630	Missing
+17892at33630	Missing
+17911at33630	Missing
+17936at33630	Complete	NODE_162_length_1632_cov_21.690186_g117_i0:278-1609	418.1	353	https://www.orthodb.org/v10?query=17936at33630	Inosine-5'-monophosphate dehydrogenase
+18258at33630	Missing
+18644at33630	Missing
+18778at33630	Missing
+18799at33630	Missing
+18980at33630	Missing
+19169at33630	Missing
+19235at33630	Missing
+19279at33630	Missing
+19323at33630	Missing
+19946at33630	Missing
+20011at33630	Complete	NODE_1024_length_915_cov_11.437055_g884_i0:32-742	258.3	222	https://www.orthodb.org/v10?query=20011at33630	40S ribosomal protein S3a
+20320at33630	Missing
+20963at33630	Missing
+21008at33630	Missing
+21372at33630	Missing
+21382at33630	Missing
+21600at33630	Missing
+21766at33630	Missing
+22490at33630	Missing
+22819at33630	Missing
+23270at33630	Missing
+23437at33630	Fragmented	NODE_8927_length_536_cov_8.153348_g8486_i0:27-329	148.7	93	https://www.orthodb.org/v10?query=23437at33630	DNA-directed RNA polymerase II, putative
+23636at33630	Missing
+23778at33630	Missing
+23919at33630	Complete	NODE_1929_length_782_cov_4.324401_g1649_i0:101-751	222.2	179	https://www.orthodb.org/v10?query=23919at33630	Ribosomal protein
+24044at33630	Missing
+24145at33630	Missing
+24274at33630	Missing
+24308at33630	Missing
+24758at33630	Missing
+24978at33630	Missing
+25160at33630	Missing
+25248at33630	Missing
+25265at33630	Missing
+25452at33630	Missing
+25529at33630	Missing
+25715at33630	Missing
+26208at33630	Missing
+26212at33630	Missing
+26624at33630	Fragmented	NODE_14068_length_470_cov_5.168766_g13600_i0:19-342	202.2	106	https://www.orthodb.org/v10?query=26624at33630	40S ribosomal protein S11
+26823at33630	Complete	NODE_1569_length_823_cov_20.437333_g1356_i0:153-716	123.8	114	https://www.orthodb.org/v10?query=26823at33630	40S ribosomal protein S7
+26910at33630	Missing
+26940at33630	Fragmented	NODE_2675_length_721_cov_24.378086_g2318_i0:250-606	42.8	89	https://www.orthodb.org/v10?query=26940at33630	Ribosome biogenesis regulatory protein
+27355at33630	Missing
+27894at33630	Missing
+28117at33630	Missing
+28197at33630	Missing
+28220at33630	Missing
+28301at33630	Missing
+28548at33630	Missing
+28686at33630	Missing
+28957at33630	Missing
+29185at33630	Missing
+29724at33630	Missing
+30104at33630	Missing
+30114at33630	Complete	NODE_12533_length_487_cov_11.495169_g12075_i0:67-459	189.7	109	https://www.orthodb.org/v10?query=30114at33630	Ribosomal protein S8
+30357at33630	Missing
+30424at33630	Missing
+30485at33630	Missing
+30487at33630	Missing
+30539at33630	Missing
+30838at33630	Missing
+30972at33630	Missing
+31798at33630	Fragmented	NODE_14793_length_462_cov_9.863753_g14323_i0:137-436	102.3	66	https://www.orthodb.org/v10?query=31798at33630	Vacuolar ATP synthase 22 kDa proteolipid subunit, putative
+32025at33630	Missing
+32102at33630	Complete	NODE_483_length_1125_cov_14.725285_g18_i17:640-1029	170.2	107	https://www.orthodb.org/v10?query=32102at33630	Ribosomal protein L32e
+32382at33630	Missing
+32556at33630	Complete	NODE_9232_length_531_cov_9.858079_g8789_i0:108-503	120.3	105	https://www.orthodb.org/v10?query=32556at33630	40S ribosomal protein S24
+32860at33630	Missing
+32936at33630	Missing
+32942at33630	Complete	NODE_6670_length_577_cov_10.940476_g6237_i0:100-486	127.4	110	https://www.orthodb.org/v10?query=32942at33630	40S ribosomal protein S12
+33231at33630	Missing
+33452at33630	Missing
+33467at33630	Missing
+33482at33630	Missing
+34124at33630	Missing
+35467at33630	Missing
+35790at33630	Complete	NODE_6390_length_583_cov_7.276471_g5960_i0:99-497	143.8	115	https://www.orthodb.org/v10?query=35790at33630	Ribosomal protein S19e
+35793at33630	Missing
+37466at33630	Missing
