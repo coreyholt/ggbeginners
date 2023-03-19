@@ -13,7 +13,7 @@ https://posit.co/download/rstudio-desktop/
 <br/><br/>
 Open Rstudio and install the packages we will be using will the following code
 ```
-install.packages(c("tidyverse", "ape", "ggnewscale", "gginnards", "BiocManager"))
+install.packages(c("tidyverse", "ape", "ggnewscale", "gginnards", "patchwork", "ggridges", "BiocManager"))
 BiocManager::install("ggtree")
 BiocManager::install("ggtreeExtra")
 ```
