@@ -15,6 +15,7 @@ Open Rstudio and install the packages we will be using will the following code
 ```
 install.packages(c("tidyverse", "ape", "ggnewscale", "gginnards", "BiocManager"))
 BiocManager::install("ggtree")
+BiocManager::install("ggtreeExtra")
 ```
 install.packages() is a base R function that can install any packages on the CRAN repository. CRAN = The Comprehensive R Archive Network and contains a huge number of stable packages.\
 BiocManager is a package used to access the Bioconductor repository – similar to CRAN but more focussed on genomic analysis.
