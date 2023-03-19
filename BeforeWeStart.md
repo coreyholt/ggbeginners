@@ -1,8 +1,8 @@
 # ggplots for ggbeginners
 
 This workshop will show you how to make publication-ready plots with little to no prior experience in R. You will learn:
-- How to recreate and optimise BlobTools plots for your data
-- How to personalise plots and themes using BUSCO data
+- How to recreate and optimise BlobTools plots
+- How to easily visualise BUSCO data
 - How to draw phylogenetic trees with accompanying variables
 <br/><br/>
 > The workshop is scheduled for **1.00pm in room 224 (BRC)**. The room is booked until 4.00pm but feel free to leave at any point. 
