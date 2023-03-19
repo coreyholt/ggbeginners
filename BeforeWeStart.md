@@ -5,7 +5,7 @@ This workshop will show you how to make publication-ready plots with little to n
 - How to easily visualise BUSCO data
 - How to draw phylogenetic trees with accompanying variables
 <br/><br/>
-> The workshop is scheduled for **1.00pm in room 224 (BRC)**. The room is booked until 4.00pm but feel free to leave at any point. 
+> The workshop is scheduled for **1.00pm on Friday 24th March in room 224 (BRC)**. The room is booked until 4.00pm but feel free to leave at any point. 
 ---
 ## Before we start ...
 Please make sure R and Rstudio is downloaded on your computer.\
